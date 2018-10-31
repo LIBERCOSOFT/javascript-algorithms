@@ -1,0 +1,1 @@
+This algorithm return the array with the largest summed value within arrays

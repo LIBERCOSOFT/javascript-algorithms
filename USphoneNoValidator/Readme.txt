@@ -1,0 +1,1 @@
+This algorithm validates us phone numbers, return true if its and false if not.

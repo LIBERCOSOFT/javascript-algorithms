@@ -1,0 +1,1 @@
+This algorithm adds any two numbers together no matter the format inputed e.g (2, (5)) == 7.

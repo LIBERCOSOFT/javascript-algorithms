@@ -1,0 +1,1 @@
+This algorithm uses function to assign and return names of any individual.

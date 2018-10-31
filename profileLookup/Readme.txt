@@ -1,0 +1,1 @@
+This algorithm checks if a child property is present in the parent object

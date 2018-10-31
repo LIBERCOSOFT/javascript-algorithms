@@ -1,0 +1,1 @@
+This function access another function's parameter using just one function name

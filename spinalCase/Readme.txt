@@ -1,0 +1,1 @@
+A regex algorithm the returns strings in spinal case.

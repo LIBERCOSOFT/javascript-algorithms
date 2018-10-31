@@ -1,0 +1,1 @@
+it adds and removes from a list through the use of global and restricted variables.

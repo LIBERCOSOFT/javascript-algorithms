@@ -1,0 +1,1 @@
+This algorithm calculates the orbital period of an object using average altitude and GM.

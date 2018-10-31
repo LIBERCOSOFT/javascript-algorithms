@@ -1,0 +1,1 @@
+This algorithm sums all prime number within two given numbers.

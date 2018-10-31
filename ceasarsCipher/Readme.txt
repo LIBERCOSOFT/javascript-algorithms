@@ -1,0 +1,1 @@
+This algorithm decrypts any word that was encrypted through the ceasars cipher method.

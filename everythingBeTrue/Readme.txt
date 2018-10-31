@@ -1,0 +1,1 @@
+This algorithm checks the first parameter which is an object with the second parameter and return true if the value(s) are either string(s) or number(s) but returns false if not.

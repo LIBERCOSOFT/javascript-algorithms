@@ -1,0 +1,1 @@
+This algorithm updates the properties of an object.

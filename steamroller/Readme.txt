@@ -1,0 +1,1 @@
+This algorithm returns value(s) in subarray(s).

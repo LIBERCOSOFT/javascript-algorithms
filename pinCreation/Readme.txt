@@ -1,0 +1,1 @@
+This algorithm creates a 14 length pin three times and 

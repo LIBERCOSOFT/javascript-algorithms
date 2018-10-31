@@ -1,0 +1,1 @@
+This algorithm encrypt strings in another type of way.

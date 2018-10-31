@@ -1,0 +1,1 @@
+This algorithm finds the smallest common multiples between the range of two numbers.

@@ -1,0 +1,1 @@
+This function accesses an array from the last element and multiples each element it iterates over by the multiplier variable which increase by the multiplication of 10 as the number is being looped over

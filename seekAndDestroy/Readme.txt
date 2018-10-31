@@ -1,0 +1,1 @@
+This algorithm finds and delete the value of the other part of the function parameter form the array provided.
