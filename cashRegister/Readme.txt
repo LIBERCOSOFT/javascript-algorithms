@@ -1,0 +1,1 @@
+This algorithm gives change to buyers based on the amount or cash in drawer.
